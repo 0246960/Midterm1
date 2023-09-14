@@ -1,0 +1,394 @@
+body {
+    background-color: white;
+    max-width: 1440 px;
+    margin: 0 auto;
+}
+
+.logo-container{
+    position: absolute;
+    top: 120px; 
+    left: 42%;
+}
+
+.header-info{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    position: absolute;
+    top: 300px; 
+    left: 29%;
+}
+
+.header-title{
+    font-weight: 600;  
+}
+
+.header-text{
+    font-weight: 400;
+}
+
+.ios-button {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 8;
+    display: inline-block;
+    padding: 10px 20px;
+    position: absolute;
+    top: 450px;
+    left: 35%;
+    background-color: #26baa4;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    border: 1px solid #1b8272;
+    box-shadow: 0px 5px 0px #1b8272;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.ios-button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0px 8px 0px #1b8272;
+}
+
+.mac-button {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 8;
+    display: inline-block;
+    padding: 10px 20px;
+    position: absolute;
+    top:450px;
+    left: 48%;
+    background-color: #6173ff;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    border: 1px solid #404daa;
+    box-shadow: 0px 5px 0px #404daa;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.mac-button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0px 8px 0px #404daa;
+}
+
+.subHeader-info{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    position: absolute;
+    top: 550px;
+    left: 29.5%;
+}
+
+.subHeader-title{
+    font-weight: 600;
+}
+
+.subHeader-text{
+    font-weight: 400;
+}
+
+.computer-image{
+    position: absolute;
+    top: 750px; 
+    left: 0%;
+    margin-left: -31px;
+}
+
+.more-info{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+    text-align: left;
+    position: absolute;
+    top: 850px; 
+    left: 52%;
+}
+
+.more-infoTitles{
+    font-weight: 600;
+}
+
+.more-infoTexts{
+    font-weight: 400;
+}
+
+.subHeader2-info{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    position: absolute;
+    top: 1430px;
+    left: 25%;
+}
+
+.subHeader2-title{
+    font-weight: 600;
+}
+
+.subHeader2-text{
+    font-weight: 400;
+}
+
+.devices-image{
+    position: absolute;
+    top: 1630px; 
+    left: 19.5%;
+}
+
+.subHeader3-info{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    position: absolute;
+    top: 2230px;
+    left: 34.5%;
+}
+
+.subHeader3-title{
+    font-weight: 600;
+}
+
+.subHeader3-text{
+    font-weight: 400;
+}
+
+.blacklist-info{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    position: absolute;
+    top: 2400px;
+    left: 5%;
+}
+
+.blacklist-title{
+    font-weight: 600;
+}
+
+.blacklist-text{
+    font-weight: 400;
+}
+
+.plainText-info{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    position: absolute;
+    top: 2400px;
+    left: 35%;
+}
+
+.plainText-title{
+    font-weight: 600;
+}
+
+.plainText-text{
+    font-weight: 400;
+}
+
+.sneakPreview-info{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    position: absolute;
+    top: 2400px;
+    left: 65%;
+}
+
+.sneakPreview-title{
+    font-weight: 600;
+}
+
+.sneakPreview-text{
+    font-weight: 400;
+}
+
+.google-image{
+    position: absolute;
+    top: 2750px;
+    left: 8%
+}
+
+.ibm-image{
+    position: absolute;
+    top: 2750px;
+    left: 25%
+}
+
+.microsoft-image{
+    position: absolute;
+    top: 2750px;
+    left: 42%
+}
+
+.hewlett-image{
+    position: absolute;
+    top: 2750px;
+    left: 59%
+}
+
+.vector-image{
+    position: absolute;
+    top: 2750px;
+    left:76%;
+}
+
+.subHeader4-info{
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    position: absolute;
+    top: 3000px;
+    left: 25%;
+}
+
+.subHeader4-title{
+    font-weight: 600;
+}
+
+.subHeader4-text{
+    font-weight: 400;
+}
+
+.ios-button2 {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 8;
+    display: inline-block;
+    padding: 10px 20px;
+    position: absolute;
+    top: 3150px;
+    left: 35%;
+    background-color: #26baa4;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    border: 1px solid #1b8272;
+    box-shadow: 0px 5px 0px #1b8272;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.ios-button2:hover {
+    transform: translateY(-3px);
+    box-shadow: 0px 8px 0px #1b8272;
+}
+
+.mac-button2 {
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-size: 8;
+    display: inline-block;
+    padding: 10px 20px;
+    position: absolute;
+    top:3150px;
+    left: 48%;
+    background-color: #6173ff;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    border: 1px solid #404daa;
+    box-shadow: 0px 5px 0px #404daa;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.mac-button2:hover {
+    transform: translateY(-3px);
+    box-shadow: 0px 8px 0px #404daa;
+}
+
+.footer{
+    padding: 60px 720px;
+    position: absolute;
+    top: 3400px;
+    background-color: #F5F6F8;
+}
+
+.logo-container2{
+    position: absolute;
+    top: 3440px; 
+    left: 8%;
+}
+
+.faqs{
+    font-family: 'Bai Jamjuree', sans-serif;
+    position: absolute;
+    top: 3410px;
+    position: absolute;
+    left: 20%;
+}
+
+.faqs:hover{
+    color: #26baa4;
+}
+
+.privacyPolicy{
+    font-family: 'Bai Jamjuree', sans-serif;
+    position: absolute;
+    top: 3410px;
+    position: absolute;
+    left: 35%;
+}
+
+.privacyPolicy:hover{
+    color: #26baa4;
+}
+
+.installGuide{
+    font-family: 'Bai Jamjuree', sans-serif;
+    position: absolute;
+    top: 3410px;
+    position: absolute;
+    left: 50%;
+}
+
+.installGuide:hover{
+    color: #26baa4;
+}
+
+.contactUs{
+    font-family: 'Bai Jamjuree', sans-serif;
+    position: absolute;
+    top: 3460px;
+    position: absolute;
+    left: 20%;
+}
+
+.contactUs:hover{
+    color: #26baa4;
+}
+
+.pressKit{
+    font-family: 'Bai Jamjuree', sans-serif;
+    position: absolute;
+    top: 3460px;
+    position: absolute;
+    left: 35%;
+}
+
+.pressKit:hover{
+    color: #26baa4;
+}
+
+.facebook-icon{
+    position: absolute;
+    top: 3440px; 
+    right: 20%;
+}
+
+.twitter-icon{
+    position: absolute;
+    top: 3440px; 
+    right: 17%;
+}
+
+.instagram-icon{
+    position: absolute;
+    top: 3440px; 
+    right: 14%;
+}
+
+i{
+    font-family: 'Bai Jamjuree', sans-serif; 
+}
+
+a{
+    font-family: 'Bai Jamjuree', sans-serif;
+}
